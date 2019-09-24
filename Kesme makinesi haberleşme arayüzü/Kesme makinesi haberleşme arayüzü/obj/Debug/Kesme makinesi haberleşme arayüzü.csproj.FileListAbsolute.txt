@@ -1,0 +1,10 @@
+C:\Users\Muzaffercky\Desktop\Kesme makinesi haberleşme arayüzü\Kesme makinesi haberleşme arayüzü\bin\Debug\Kesme makinesi haberleşme arayüzü.exe.config
+C:\Users\Muzaffercky\Desktop\Kesme makinesi haberleşme arayüzü\Kesme makinesi haberleşme arayüzü\bin\Debug\Kesme makinesi haberleşme arayüzü.exe
+C:\Users\Muzaffercky\Desktop\Kesme makinesi haberleşme arayüzü\Kesme makinesi haberleşme arayüzü\bin\Debug\Kesme makinesi haberleşme arayüzü.pdb
+C:\Users\Muzaffercky\Desktop\Kesme makinesi haberleşme arayüzü\Kesme makinesi haberleşme arayüzü\obj\Debug\Kesme makinesi haberleşme arayüzü.csprojAssemblyReference.cache
+C:\Users\Muzaffercky\Desktop\Kesme makinesi haberleşme arayüzü\Kesme makinesi haberleşme arayüzü\obj\Debug\Kesme_makinesi_haberleşme_arayüzü.Form1.resources
+C:\Users\Muzaffercky\Desktop\Kesme makinesi haberleşme arayüzü\Kesme makinesi haberleşme arayüzü\obj\Debug\Kesme_makinesi_haberleşme_arayüzü.Properties.Resources.resources
+C:\Users\Muzaffercky\Desktop\Kesme makinesi haberleşme arayüzü\Kesme makinesi haberleşme arayüzü\obj\Debug\Kesme makinesi haberleşme arayüzü.csproj.GenerateResource.cache
+C:\Users\Muzaffercky\Desktop\Kesme makinesi haberleşme arayüzü\Kesme makinesi haberleşme arayüzü\obj\Debug\Kesme makinesi haberleşme arayüzü.csproj.CoreCompileInputs.cache
+C:\Users\Muzaffercky\Desktop\Kesme makinesi haberleşme arayüzü\Kesme makinesi haberleşme arayüzü\obj\Debug\Kesme makinesi haberleşme arayüzü.exe
+C:\Users\Muzaffercky\Desktop\Kesme makinesi haberleşme arayüzü\Kesme makinesi haberleşme arayüzü\obj\Debug\Kesme makinesi haberleşme arayüzü.pdb
